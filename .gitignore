@@ -1,0 +1,7 @@
+# Ignore Mac system files
+.DS_Store
+
+# Ignore models
+best_model.hdf5
+best_model.hdf5_2
+best_model.hdf5_3
